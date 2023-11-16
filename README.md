@@ -38,7 +38,7 @@ Para usar este projeto, é necessário ter um navegador que suporte a execução
  ## Linguagens utilizadas:
 Este projeto foi desenvolvido principalmente usando as seguintes linguagens:
 
-> * HTML
+> * HTML 
 > * CSS
 
 ![image](https://github.com/Hkaua/pagina-de-host/assets/115200562/a93cc1f4-0170-465e-bad4-9017a916c171)
